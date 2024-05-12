@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^appeal.case appeal.case.html [NC]
